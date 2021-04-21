@@ -1,0 +1,13 @@
+.\objects\downsample_fast.o: E:\webrtc-master\common_audio\signal_processing\downsample_fast.c
+.\objects\downsample_fast.o: E:\webrtc-master\common_audio/signal_processing/include/signal_processing_library.h
+.\objects\downsample_fast.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\downsample_fast.o: E:\webrtc-master\common_audio/signal_processing/dot_product_with_scale.h
+.\objects\downsample_fast.o: E:\webrtc-master\typedefs.h
+.\objects\downsample_fast.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\downsample_fast.o: E:\webrtc-master\rtc_base/system/arch.h
+.\objects\downsample_fast.o: E:\webrtc-master\rtc_base/system/unused.h
+.\objects\downsample_fast.o: E:\webrtc-master\common_audio/signal_processing/include/spl_inl.h
+.\objects\downsample_fast.o: E:\webrtc-master\rtc_base/compile_assert_c.h
+.\objects\downsample_fast.o: E:\webrtc-master\rtc_base/checks.h
+.\objects\downsample_fast.o: E:\webrtc-master\rtc_base/sanitizer.h
+.\objects\downsample_fast.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

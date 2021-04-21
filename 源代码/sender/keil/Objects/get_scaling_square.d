@@ -1,0 +1,10 @@
+.\objects\get_scaling_square.o: E:\webrtc-master\common_audio\signal_processing\get_scaling_square.c
+.\objects\get_scaling_square.o: E:\webrtc-master\common_audio/signal_processing/include/signal_processing_library.h
+.\objects\get_scaling_square.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\get_scaling_square.o: E:\webrtc-master\common_audio/signal_processing/dot_product_with_scale.h
+.\objects\get_scaling_square.o: E:\webrtc-master\typedefs.h
+.\objects\get_scaling_square.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\get_scaling_square.o: E:\webrtc-master\rtc_base/system/arch.h
+.\objects\get_scaling_square.o: E:\webrtc-master\rtc_base/system/unused.h
+.\objects\get_scaling_square.o: E:\webrtc-master\common_audio/signal_processing/include/spl_inl.h
+.\objects\get_scaling_square.o: E:\webrtc-master\rtc_base/compile_assert_c.h

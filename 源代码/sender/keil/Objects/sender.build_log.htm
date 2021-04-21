@@ -1,0 +1,191 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.26.2.0
+Copyright (C) 2018 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Lamy Xiang, Nineboats, LIC=SDAQD-8VVXX-PZBWB-2LCFB-53ITF-DLMI8
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.26.2.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.26.2.0
+Dialog DLL:      DCM.DLL V1.17.2.0
+Target DLL:      Segger\JL2CM3.dll V2.99.31.0
+Dialog DLL:      TCM.DLL V1.36.1.0
+ 
+<h2>Project:</h2>
+D:\工程移交文件\52832-蓝牙\源代码\sender\keil\sender.uvprojx
+Project File Date:  08/07/2020
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build Project 'sender' - Target 'sender'
+compiling Rf.c...
+compiling Sample.c...
+compiling Sender.c...
+compiling SystemClock.c...
+compiling IMA_ADPCM.c...
+compiling SignalProcess.c...
+compiling Queue.c...
+compiling STransfer.c...
+compiling Twis.c...
+compiling Uart.c...
+compiling Flash.c...
+compiling At.c...
+compiling Led.c...
+compiling Button.c...
+linking...
+Program Size: Code=27732 RO-data=6400 RW-data=124 ZI-data=53652  
+FromELF: creating hex file...
+".\Objects\sender.axf" - 0 Error(s), 0 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.4.0.pack
+                ARM.CMSIS.5.4.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.1.2
+   * Component: DSP Version: 1.5.2
+
+Package Vendor: NordicSemiconductor
+                http://developer.nordicsemi.com/nRF5_SDK/pieces/nRF_DeviceFamilyPack/NordicSemiconductor.nRF_DeviceFamilyPack.8.16.0.pack
+                NordicSemiconductor.nRF_DeviceFamilyPack.8.16.0
+                Nordic Semiconductor nRF ARM devices Device Family Pack.
+   * Component: Startup Version: 8.16.0
+
+Package Vendor: NordicSemiconductor
+                http://developer.nordicsemi.com/nRF51_SDK/pieces/nRF_Drivers/NordicSemiconductor.nRF_Drivers.4.0.0-2.alpha.pack
+                NordicSemiconductor.nRF_Drivers.4.0.0-2.alpha
+                Drivers for Nordic Semiconductor nRF family.
+   * Component: nrf_delay Version: 4.0.0-2.alpha
+   * Component: nrf_drv_common Version: 4.0.0-2.alpha
+   * Component: nrf_drv_gpiote Version: 4.0.0-2.alpha
+   * Component: nrf_drv_twis Version: 4.0.0-2.alpha
+   * Component: nrf_drv_uart Version: 4.0.0-2.alpha
+   * Component: nrf_error Variant: No_softdevice Version: 4.0.0-2.alpha
+   * Component: nrf_gpio Version: 4.0.0-2.alpha
+   * Component: nrf_gpiote Version: 4.0.0-2.alpha
+   * Component: nrf_twis Version: 4.0.0-2.alpha
+   * Component: nrf_uart Version: 4.0.0-2.alpha
+   * Component: nrf_uarte Version: 4.0.0-2.alpha
+
+Package Vendor: NordicSemiconductor
+                http://developer.nordicsemi.com/nRF51_SDK/pieces/nRF_Libraries/NordicSemiconductor.nRF_Libraries.4.0.0-2.alpha.pack
+                NordicSemiconductor.nRF_Libraries.4.0.0-2.alpha
+                Software modules for Nordic Semiconductor nRF family.
+   * Component: app_uart Variant: Fifo Version: 4.0.0-2.alpha
+   * Component: app_error Version: 4.0.0-2.alpha
+   * Component: app_fifo Version: 4.0.0-2.alpha
+   * Component: app_util Variant: No_softdevice Version: 4.0.0-2.alpha
+   * Component: nordic_common Version: 4.0.0-2.alpha
+   * Component: nrf_assert Version: 4.0.0-2.alpha
+   * Component: retarget Version: 4.0.0-2.alpha
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_sender
+  .\RTE\nRF_Drivers\nRF52832_xxAA
+  .\RTE\nRF_Libraries\nRF52832_xxAA
+  C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include
+  C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\DSP\Include
+  C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.16.0\Device\Include
+  C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\common
+  C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\config
+  C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\delay
+  C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\gpiote
+  C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal
+  C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd
+  C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\twis_slave
+  C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\uart
+  C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\fifo
+  C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\uart
+  C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.1.2
+
+   * Component: ARM::CMSIS:DSP:1.5.2
+      Include file:  CMSIS\DSP\Include\arm_math.h
+      Library file:  CMSIS\Lib\ARM\arm_cortexM4lf_math.lib
+
+   * Component: NordicSemiconductor::Device:Startup:8.16.0
+      Source file:   Device\Source\arm\arm_startup_nrf52.s
+      Source file:   Device\Source\system_nrf52.c
+      Include file:  Device\Include\system_nrf52.h
+
+   * Component: NordicSemiconductor::nRF_Drivers:app_uart:Fifo:4.0.0-2.alpha
+      Source file:   uart\app_uart_fifo.c
+      Include file:  uart\app_uart.h
+
+   * Component: NordicSemiconductor::nRF_Drivers:nrf_delay:4.0.0-2.alpha
+      Source file:   delay\nrf_delay.c
+      Include file:  delay\nrf_delay.h
+
+   * Component: NordicSemiconductor::nRF_Drivers:nrf_drv_common:4.0.0-2.alpha
+      Source file:   common\nrf_drv_common.c
+      Include file:  common\nrf_drv_common.h
+      Include file:  config\nrf_drv_config.h
+
+   * Component: NordicSemiconductor::nRF_Drivers:nrf_drv_gpiote:4.0.0-2.alpha
+      Source file:   gpiote\nrf_drv_gpiote.c
+      Include file:  gpiote\nrf_drv_gpiote.h
+      Include file:  config\nrf_drv_config.h
+
+   * Component: NordicSemiconductor::nRF_Drivers:nrf_drv_twis:4.0.0-2.alpha
+      Source file:   twis_slave\nrf_drv_twis.c
+      Include file:  twis_slave\nrf_drv_twis.h
+      Include file:  config\nrf_drv_config.h
+
+   * Component: NordicSemiconductor::nRF_Drivers:nrf_drv_uart:4.0.0-2.alpha
+      Source file:   uart\nrf_drv_uart.c
+      Include file:  uart\nrf_drv_uart.h
+      Include file:  config\nrf_drv_config.h
+
+   * Component: NordicSemiconductor::nRF_Drivers:nrf_error:No_softdevice:4.0.0-2.alpha
+
+   * Component: NordicSemiconductor::nRF_Drivers:nrf_gpio:4.0.0-2.alpha
+      Include file:  hal\nrf_gpio.h
+
+   * Component: NordicSemiconductor::nRF_Drivers:nrf_gpiote:4.0.0-2.alpha
+      Include file:  hal\nrf_gpiote.h
+
+   * Component: NordicSemiconductor::nRF_Drivers:nrf_twis:4.0.0-2.alpha
+      Include file:  hal\nrf_twis.h
+
+   * Component: NordicSemiconductor::nRF_Drivers:nrf_uart:4.0.0-2.alpha
+      Include file:  hal\nrf_uart.h
+
+   * Component: NordicSemiconductor::nRF_Drivers:nrf_uarte:4.0.0-2.alpha
+      Include file:  hal\nrf_uarte.h
+
+   * Component: NordicSemiconductor::nRF_Libraries:app_error:4.0.0-2.alpha
+      Source file:   util\app_error.c
+      Include file:  util\app_error.h
+
+   * Component: NordicSemiconductor::nRF_Libraries:app_fifo:4.0.0-2.alpha
+      Source file:   fifo\app_fifo.c
+      Include file:  fifo\app_fifo.h
+
+   * Component: NordicSemiconductor::nRF_Libraries:app_util:No_softdevice:4.0.0-2.alpha
+      Source file:   util\app_util_platform.c
+
+   * Component: NordicSemiconductor::nRF_Libraries:nordic_common:4.0.0-2.alpha
+
+   * Component: NordicSemiconductor::nRF_Libraries:nrf_assert:4.0.0-2.alpha
+      Source file:   util\nrf_assert.c
+      Include file:  util\nrf_assert.h
+
+   * Component: NordicSemiconductor::nRF_Libraries:retarget:4.0.0-2.alpha
+      Source file:   uart\retarget.c
+Build Time Elapsed:  00:00:08
+</pre>
+</body>
+</html>

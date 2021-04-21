@@ -1,0 +1,10 @@
+.\objects\vector_scaling_operations.o: E:\webrtc-master\common_audio\signal_processing\vector_scaling_operations.c
+.\objects\vector_scaling_operations.o: E:\webrtc-master\common_audio/signal_processing/include/signal_processing_library.h
+.\objects\vector_scaling_operations.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\vector_scaling_operations.o: E:\webrtc-master\common_audio/signal_processing/dot_product_with_scale.h
+.\objects\vector_scaling_operations.o: E:\webrtc-master\typedefs.h
+.\objects\vector_scaling_operations.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\vector_scaling_operations.o: E:\webrtc-master\rtc_base/system/arch.h
+.\objects\vector_scaling_operations.o: E:\webrtc-master\rtc_base/system/unused.h
+.\objects\vector_scaling_operations.o: E:\webrtc-master\common_audio/signal_processing/include/spl_inl.h
+.\objects\vector_scaling_operations.o: E:\webrtc-master\rtc_base/compile_assert_c.h

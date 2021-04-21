@@ -1,0 +1,10 @@
+.\objects\energy.o: E:\webrtc-master\common_audio\signal_processing\energy.c
+.\objects\energy.o: E:\webrtc-master\common_audio/signal_processing/include/signal_processing_library.h
+.\objects\energy.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\energy.o: E:\webrtc-master\common_audio/signal_processing/dot_product_with_scale.h
+.\objects\energy.o: E:\webrtc-master\typedefs.h
+.\objects\energy.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\energy.o: E:\webrtc-master\rtc_base/system/arch.h
+.\objects\energy.o: E:\webrtc-master\rtc_base/system/unused.h
+.\objects\energy.o: E:\webrtc-master\common_audio/signal_processing/include/spl_inl.h
+.\objects\energy.o: E:\webrtc-master\rtc_base/compile_assert_c.h

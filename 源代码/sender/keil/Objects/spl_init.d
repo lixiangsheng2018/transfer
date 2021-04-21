@@ -1,0 +1,11 @@
+.\objects\spl_init.o: E:\webrtc-master\common_audio\signal_processing\spl_init.c
+.\objects\spl_init.o: E:\webrtc-master\common_audio/signal_processing/include/signal_processing_library.h
+.\objects\spl_init.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\spl_init.o: E:\webrtc-master\common_audio/signal_processing/dot_product_with_scale.h
+.\objects\spl_init.o: E:\webrtc-master\typedefs.h
+.\objects\spl_init.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\spl_init.o: E:\webrtc-master\rtc_base/system/arch.h
+.\objects\spl_init.o: E:\webrtc-master\rtc_base/system/unused.h
+.\objects\spl_init.o: E:\webrtc-master\common_audio/signal_processing/include/spl_inl.h
+.\objects\spl_init.o: E:\webrtc-master\rtc_base/compile_assert_c.h
+.\objects\spl_init.o: E:\webrtc-master\system_wrappers/include/cpu_features_wrapper.h

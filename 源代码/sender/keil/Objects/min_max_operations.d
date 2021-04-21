@@ -1,0 +1,12 @@
+.\objects\min_max_operations.o: E:\webrtc-master\common_audio\signal_processing\min_max_operations.c
+.\objects\min_max_operations.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\min_max_operations.o: E:\webrtc-master\rtc_base/checks.h
+.\objects\min_max_operations.o: E:\webrtc-master\common_audio/signal_processing/include/signal_processing_library.h
+.\objects\min_max_operations.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\min_max_operations.o: E:\webrtc-master\common_audio/signal_processing/dot_product_with_scale.h
+.\objects\min_max_operations.o: E:\webrtc-master\typedefs.h
+.\objects\min_max_operations.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\min_max_operations.o: E:\webrtc-master\rtc_base/system/arch.h
+.\objects\min_max_operations.o: E:\webrtc-master\rtc_base/system/unused.h
+.\objects\min_max_operations.o: E:\webrtc-master\common_audio/signal_processing/include/spl_inl.h
+.\objects\min_max_operations.o: E:\webrtc-master\rtc_base/compile_assert_c.h

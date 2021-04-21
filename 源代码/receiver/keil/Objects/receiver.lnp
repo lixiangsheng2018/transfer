@@ -1,0 +1,26 @@
+--cpu=Cortex-M4.fp
+".\objects\play.o"
+".\objects\receiver.o"
+".\objects\rf.o"
+".\objects\uart.o"
+".\objects\systemtick.o"
+".\objects\tipsaudio.o"
+".\objects\ima_adpcm.o"
+".\objects\queue.o"
+".\objects\rtransfer.o"
+".\objects\flash.o"
+".\objects\arm_startup_nrf52.o"
+".\objects\system_nrf52.o"
+".\objects\nrf_drv_common.o"
+".\objects\nrf_delay.o"
+".\objects\nrf_drv_uart.o"
+".\objects\app_uart_fifo.o"
+".\objects\app_error.o"
+".\objects\app_fifo.o"
+".\objects\app_util_platform.o"
+".\objects\nrf_assert.o"
+".\objects\retarget.o"
+--strict --scatter ".\Objects\receiver.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\receiver.map" -o .\Objects\receiver.axf

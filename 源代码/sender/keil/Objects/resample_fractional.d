@@ -1,0 +1,10 @@
+.\objects\resample_fractional.o: E:\webrtc-master\common_audio\signal_processing\resample_fractional.c
+.\objects\resample_fractional.o: E:\webrtc-master\common_audio/signal_processing/include/signal_processing_library.h
+.\objects\resample_fractional.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\resample_fractional.o: E:\webrtc-master\common_audio/signal_processing/dot_product_with_scale.h
+.\objects\resample_fractional.o: E:\webrtc-master\typedefs.h
+.\objects\resample_fractional.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\resample_fractional.o: E:\webrtc-master\rtc_base/system/arch.h
+.\objects\resample_fractional.o: E:\webrtc-master\rtc_base/system/unused.h
+.\objects\resample_fractional.o: E:\webrtc-master\common_audio/signal_processing/include/spl_inl.h
+.\objects\resample_fractional.o: E:\webrtc-master\rtc_base/compile_assert_c.h
